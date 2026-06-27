@@ -28,7 +28,8 @@ I'm a passionate full-stack(MERN) developer. I love tackling complex problems, l
 
 ## Get in Touch 📬
 
-![[Linkdin]https://www.linkedin.com/in/ankit8604/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="<img src="{BadgeURLHere}" />](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
+https://www.linkedin.com/in/ankit8604/
 
 
 
