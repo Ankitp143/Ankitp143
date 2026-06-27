@@ -6,7 +6,6 @@ I'm a passionate full-stack(MERN) developer. I love tackling complex problems, l
 
 - 🌍 Languages: Hindi, English
 - 📫 How to reach me: ap143y@gmail.com
-- ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
 
@@ -32,7 +31,7 @@ I'm a passionate full-stack(MERN) developer. I love tackling complex problems, l
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+Fintrack is a daily spending tracker built with HTML, CSS, JS, Bootstrap, Node.js, Express.js, Chart.js, MongoDB. This project demonstrates my ability to build user-friendly applications. You can check out the repository [here](project_1_repository_link).
 
 
 ## Get in Touch 📬
