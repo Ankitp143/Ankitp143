@@ -36,7 +36,7 @@ I'm a passionate full-stack(MERN) developer. I love tackling complex problems, l
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=plotly\&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge\&logo=codeforces\&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-003B57?style=for-the-badge\&logo=linux\&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-003B57?style=for-the-badge\&logo=linux\&logoColor=white)
 
 ## 🛠️ Tools
 
