@@ -2,9 +2,9 @@
 
 ## About Me 🚀
 
-I'm a passionate full-stack(MERN) developer. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **MERN Stack Developer** who enjoys building modern web applications and solving real-world problems. I love learning new technologies, connecting with the developer community, and collaborating with others to create innovative solutions.
 
-- 🌍 Languages: Hindi, English
+- 🌍 Languages: Hindi (Native), English (Professional)
 - 📫 How to reach me: ap143y@gmail.com
 
 ## My Skills 🧠
