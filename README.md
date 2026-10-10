@@ -50,7 +50,7 @@ I'm a passionate **MERN Stack Developer** who enjoys building modern web applica
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-Fintrack is a daily spending tracker built with HTML, CSS, JS, Bootstrap, Node.js, Express.js, Chart.js, MongoDB. This project demonstrates my ability to build user-friendly applications. You can check out the repository [here](project_1_repository_link).
+Fintrack is a daily spending tracker built with HTML, CSS, JS, Bootstrap, Node.js, Express.js, Chart.js, MongoDB. This project demonstrates my ability to build user-friendly applications. You can check out the repository [here](https://github.com/Ankitp143/fintrack).
 
 
 ## Get in Touch 📬
