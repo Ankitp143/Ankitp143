@@ -53,7 +53,7 @@ You can check out the repository [here](https://github.com/Ankitp143/Multiplex-M
 
 ### [Fintrack - working on](https://fintrack-66gu.onrender.com/)
 
-Fintrack is a daily spending tracker built with HTML, CSS, JS, Bootstrap, Node.js, Express.js, Chart.js, MongoDB. This project demonstrates my ability to build user-friendly applications. You can check out the repository [here](https://github.com/Ankitp143/fintrack).
+FinTrack is a full-stack Personal Finance Management System designed to help users track expenses, monitor budget targets, and gain clear visibility into their personal financial health. Built with Node.js, Express.js, MongoDB, EJS, and Bootstrap 5, it features secure session-based authentication with bcrypt password hashing, dynamic income and expense categorization with real-time balance computation, current-month budget monitoring with automated consumption alerts, interactive spending analytics powered by Chart.js, and customizable date-range PDF financial report exports via PDFKit.. You can check out the repository [here](https://github.com/Ankitp143/fintrack).
 
 
 ## Get in Touch 📬
