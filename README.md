@@ -46,6 +46,11 @@ I'm a passionate **MERN Stack Developer** who enjoys building modern web applica
 
 ## Featured Projects 💻
 
+### [CineMax - working on](https://fintrack-66gu.onrender.com/)
+
+CineMax is an end-to-end Multiplex Management System designed to streamline movie scheduling and ticket reservations across multiple theatres and screens. Built on the MERN stack with Socket.io, it provides real-time seat locking to prevent concurrent double-booking, dynamic seat layout generation with tiered pricing (Standard, Premium, VIP), secure JWT authentication with role-based permissions (Admin, Theatre Owner, User), and an automated booking workflow.
+You can check out the repository [here](https://github.com/Ankitp143/cinemax).
+
 ### [Fintrack - working on](https://fintrack-66gu.onrender.com/)
 
 Fintrack is a daily spending tracker built with HTML, CSS, JS, Bootstrap, Node.js, Express.js, Chart.js, MongoDB. This project demonstrates my ability to build user-friendly applications. You can check out the repository [here](https://github.com/Ankitp143/fintrack).
